@@ -11,7 +11,7 @@ I'm a passionate programming enthusiast on a journey of continuous learning and 
 * ✉️  You can contact me at [Mahmoudnia@outlook.com](mailto:Mahmoudnia@outlook.com)
 * 🧠  I'm learning Front-end development with a focus on Vue.js.
 * 🤝  I'm open to collaborating on Microservices architecture projects
-* ⚡  🚀 Currently gaining hands-on experience with complex business scenarios in a real and successful project. Excited to tackle challenges and contribute to the project's success!
+* ⚡  Currently gaining hands-on experience with complex business scenarios in a real and successful project. Excited to tackle challenges and contribute to the project's success!
 
 <a href="https://www.github.com/ParhamMahmoudnia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ParhamMahmoudnia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
