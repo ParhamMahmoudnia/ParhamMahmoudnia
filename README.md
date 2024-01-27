@@ -10,7 +10,9 @@ I'm a passionate programming enthusiast on a journey of continuous learning and 
 
 📚 Lifelong learner with an insatiable curiosity, I love spending my days on research and discovering new aspects of programming. My GitHub repositories reflect my dedication to refining my skills and tackling innovative projects. 
 
-💻 Currently embracing the world of programming and exploring its nuances, I'm enthusiastic about every line of code I write. If you're passionate about programming or just love coding adventures, let's connect and explore the vast universe of programming together! #ProgrammingEnthusiast #ContinuousLearner #CodeExplorer #PassionateCoder
+💻 Currently embracing the world of programming and exploring its nuances, I'm enthusiastic about every line of code I write. If you're passionate about programming or just love coding adventures, let's connect and explore the vast universe of programming together! 
+
+#ProgrammingEnthusiast #ContinuousLearner #CodeExplorer #PassionateCoder
 
 * 🌍  I'm based in Iran, Tehran
 * 🌐  See my personal website at [Mahmoudnia.com](http://Mahmoudnia.com)
